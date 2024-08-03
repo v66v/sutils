@@ -1,0 +1,8 @@
+#+title: SUtils (Simple Utils)
+#+startup: showall
+
+* makefile
+Simple makefile for c or c++ projects that only requires the sources to be in
+SRC_DIR and the libraries to be stated in LIB_NAMES and PKGCONFIGS_(CFLAGS, LIBS)
+
+Just a simple make and voila!
